@@ -416,7 +416,7 @@ print "\n\n";
 "/users.%EXT%",
 "/accounts/",
 "/accounts.%EXT%",
-"/wp-login.php",
+"/adm-login.php",
 "/bb-admin/login.%EXT%",
 "/bb-admin/admin.%EXT%",
 "/bb-admin/admin.html",
