@@ -31,7 +31,6 @@ sleep (1);
     $host=<STDIN>;
     chomp($host);
     if($host !~ /http:\/\//) { $host = "http://$host"; };
-    if($host !~ /https:\/\//) { $host = "https://$host"; };
 
 print "\n\n";
 print "\t\t*-*-*-*-*-* Scanning *-*-*-*-*-*\n";
